@@ -83,3 +83,15 @@ label{
     width: 10rem;
     height: 3rem;
 }
+
+.result-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+}
+
+.result-title {
+    font-size: larger;
+    font-weight: 900;
+}
