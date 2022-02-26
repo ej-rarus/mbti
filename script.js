@@ -14,5 +14,4 @@ function tester2(){
     testValue = tester();
     alert(testValue);
     testValue = 0;
-    move();
 }
